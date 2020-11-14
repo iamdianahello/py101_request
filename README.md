@@ -15,9 +15,13 @@ pip3 install python-dotenv
 
 ### Usage
 create .env file with your twillio params and numbers:
+
 TWILIO_ACCOUNT_SID=
+
 TWILIO_AUTH_TOKEN=
+
 NUMBER_FROM=
+
 NUMBER_TO=
 
 then run spam.py
