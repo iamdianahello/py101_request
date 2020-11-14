@@ -1,7 +1,7 @@
 ## Server 200 status checker
 for os: all
 
-Script cheks your server status once a minute. In a case status != 200 you will get panic sms message to your phone
+Script checks your server status once a minute. In a case status != 200 you will get panic sms message to your phone
 
 
 ### Installing
